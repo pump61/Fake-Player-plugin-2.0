@@ -33,7 +33,7 @@ no server-list entry, no player spoofing, ever.
 
 <div align="center">
 
-| 🧩 **19** systems | ⌨️ **25** commands | 📜 **MIT** open source | 🌿 **1.21+** Folia ready |
+| 🧩 **19** systems | ⌨️ **25** commands | 📜 open source | 🌿 **1.21+** Folia ready |
 |:---:|:---:|:---:|:---:|
 
 </div>
